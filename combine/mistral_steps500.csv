@@ -1,0 +1,27 @@
+Model,Step,Training Loss
+mistral,Step,Training Loss
+mistral,20,2.476000
+mistral,40,2.366600
+mistral,60,2.306900
+mistral,80,2.223500
+mistral,100,2.149900
+mistral,120,2.073800
+mistral,140,2.005600
+mistral,160,1.935900
+mistral,180,1.866000
+mistral,200,1.818300
+mistral,220,1.741800
+mistral,240,1.688900
+mistral,260,1.635900
+mistral,280,1.565200
+mistral,300,1.510900
+mistral,320,1.459100
+mistral,340,1.412600
+mistral,360,1.371500
+mistral,380,1.315800
+mistral,400,1.292200
+mistral,420,1.274700
+mistral,440,1.231600
+mistral,460,1.213700
+mistral,480,1.197200
+mistral,500,1.193000
