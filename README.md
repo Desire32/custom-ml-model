@@ -5,4 +5,4 @@
 - [x] LoRA
 - [ ] Advanced Analysis
 - [ ] Custom RAG
-- [ ] MLflow
+- [x] MLflow
