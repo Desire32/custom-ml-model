@@ -3,6 +3,5 @@
 ## ✅ To-Do
 
 - [x] LoRA
-- [ ] Advanced Analysis
 - [ ] Custom RAG
 - [x] MLflow
