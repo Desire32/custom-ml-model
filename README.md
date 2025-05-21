@@ -3,5 +3,6 @@
 ## ✅ To-Do
 
 - [x] LoRA
+- [x] Langchain RAG
 - [ ] Custom RAG
 - [x] MLflow
