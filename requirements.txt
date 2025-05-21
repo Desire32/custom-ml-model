@@ -10,6 +10,7 @@ matplotlib
 sentence-transformers
 bert-score
 faiss-cpu
+mlflow
 gensim
 nltk
 huggingface_hub
