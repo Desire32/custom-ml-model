@@ -4,7 +4,7 @@ A lightweight implementation of LoRA (Low-Rank Adaptation) and RAG (Retrieval Au
 
 ## Features
 - LoRA fine-tuning with 8-bit quantization
-- FAISS-based semantic search and RAG implementation
+- FAISS-based semantic search and RAG implementations
 - MLflow integration for experiment tracking
 - Support for TinyLlama, Mistral, Llama, and Phi-2 models
 
